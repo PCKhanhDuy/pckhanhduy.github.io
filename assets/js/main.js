@@ -55,17 +55,16 @@ const I18N = {
     "exp.1.li3": "Thiết kế và chuyển file design sang HTML/CSS để gửi email marketing.",
     "exp.1.li4": "Tối ưu CSS, responsive layout và hiệu năng trang.",
     "exp.1.tech":
-      "⚙️ Công nghệ & phần mềm: HTML, CSS, Bootstrap, Tailwind, JavaScript, PHP (Yii Framework), Git, Figma, OpenCart, Laravel, ReactJS, Angular, InDesign, Illustrator, Photoshop",
+      "⚙️ Công nghệ & công cụ: HTML, CSS, Bootstrap, Tailwind, JavaScript, PHP (Yii Framework), Git, Figma, OpenCart, Laravel, ReactJS, Angular, InDesign, Illustrator, Photoshop",
 
-    "exp.2.role":
-      "UI/UX Designer + Front-end Developer — Freelancer",
-    "exp.2.time": "02/2023 – 07/2023 • TP.HCM",
-    "exp.2.li1": "Thiết kế và hiện thực hóa giao diện sản phẩm SaaS từ Figma sang HTML/CSS.",
-    "exp.2.li2": "Xây dựng hệ thống component và prototype UI/UX.",
-    "exp.2.li3": "Chuyển thiết kế pixel-perfect, tối ưu hiển thị trên desktop & mobile.",
-    "exp.2.li4": "Hỗ trợ team cải thiện UX thông qua feedback và A/B testing.",
+    "exp.2.role": "Freelancer — Web Developer & Web Designer",
+    "exp.2.time": "02/2023 – nay • TP.HCM",
+    "exp.2.li1": "Thiết kế UI/UX web & landing page trên Figma (wireframe, prototype, responsive).",
+    "exp.2.li2": "Front-end: HTML/CSS/JS; xây dựng landing page/website với React/Next/Angular, component & form.",
+    "exp.2.li3": "Back-end: PHP/Laravel hoặc NodeJS; phát triển API, xử lý CRUD/auth; DB MySQL/MongoDB.",
+    "exp.2.li4": "Tối ưu SEO/hiệu năng; deploy domain/SSL; tích hợp tracking (GA/GTM) & bảo trì.",
     "exp.2.tech":
-      "🎨 Công nghệ & phần mềm: Figma, Adobe XD, HTML, CSS, JavaScript, Bootstrap, Git",
+      "🎨 Công nghệ & công cụ: Figma, Adobe InDesign, HTML, CSS, JavaScript/TypeScript, React.js, Next.js, Angular, Node.js, PHP, Laravel, Tailwind CSS, Bootstrap, Git/GitHub, RESTful API, MySQL, MongoDB, SEO cơ bản, Deployment (Domain/SSL/VPS/Hosting), Tracking (GA/GTM).",
 
     "exp.3.role": "Freelance",
     "exp.3.time": "2024 – nay • Toàn cầu",
@@ -139,23 +138,22 @@ const I18N = {
 
     /* EXPERIENCE */
     "exp.1.role": "Web Developer — Vietnam Furniture Resources",
-    "exp.1.time": "10/2023 – Present • HCMC",
+    "exp.1.time": "10/2023 – Present • HCM City",
     "exp.1.li1": "Built and optimized internal web UI for ERP and ticket systems.",
     "exp.1.li2": "Integrated and fetched APIs from ERP system for dynamic data.",
     "exp.1.li3": "Designed and converted marketing email layouts to HTML/CSS.",
     "exp.1.li4": "Optimized CSS, responsive layout and page performance.",
     "exp.1.tech":
-      "⚙️ Technologies: HTML, CSS, Bootstrap, Tailwind, JavaScript, PHP (Yii Framework), Git, Figma, OpenCart, Laravel, ReactJS, Angular, InDesign, Illustrator, Photoshop",
+      "⚙️ Tech Stack & Tools: HTML, CSS, Bootstrap, Tailwind, JavaScript, PHP (Yii Framework), Git, Figma, OpenCart, Laravel, ReactJS, Angular, InDesign, Illustrator, Photoshop",
 
-    "exp.2.role":
-      "UI/UX Designer + Front-end Developer — Freelancer",
-    "exp.2.time": "02/2023 – 07/2023 • HCMC",
-    "exp.2.li1": "Designed and implemented SaaS product UI from Figma to HTML/CSS.",
-    "exp.2.li2": "Built UI component system and UX prototypes.",
-    "exp.2.li3": "Produced pixel-perfect layouts optimized for all screens.",
-    "exp.2.li4": "Improved UX through feedback loops and A/B testing.",
+    "exp.2.role": "Freelancer — Web Developer & Web Designer",
+    "exp.2.time": "02/2023 – Present • HCM City",
+    "exp.2.li1": "Design UI/UX for websites & landing pages in Figma (wireframes, prototypes, responsive layouts).",
+    "exp.2.li2": "Front-end: HTML/CSS/JS; build landing pages/websites with React/Next/Angular, reusable components & forms.",
+    "exp.2.li3": "Back-end: PHP/Laravel or NodeJS; develop APIs, handle CRUD/auth; work with MySQL/MongoDB.",
+    "exp.2.li4": "Optimize SEO/performance; deploy with domain/SSL; integrate tracking (GA/GTM) & provide maintenance.",
     "exp.2.tech":
-      "🎨 Technologies: Figma, Adobe XD, HTML, CSS, JavaScript, Bootstrap, Git",
+      "🎨 Tech Stack & Tools: Figma, Adobe InDesign, HTML, CSS, JavaScript/TypeScript, React.js, Next.js, Angular, Node.js, PHP, Laravel, Tailwind CSS, Bootstrap, Git/GitHub, RESTful APIs, MySQL, MongoDB, Basic SEO, Deployment (Domain/SSL/VPS/Hosting), Analytics/Tracking (GA/GTM)",
 
     "exp.3.role": "Freelance",
     "exp.3.time": "2024 – Present • Global",
