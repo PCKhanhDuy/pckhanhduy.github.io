@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pckhanhduy.github.io/Portfolio/sitemap.xml
+Sitemap: https://pckhanhduy.github.io/sitemap.xml
