@@ -33,6 +33,7 @@ const I18N = {
     "about.locLabel": "Nơi ở:",
     "about.dateLabel": "Sinh năm:",
     "about.locValue": "TP.HCM, Việt Nam",
+    "about.facebookLabel": "Facebook:",
 
     "about.focus": "Tập trung",
     "about.focus.performance": "Performance",
@@ -88,6 +89,27 @@ const I18N = {
     "proj.stack.lovebox": "Next.js • Tailwind • GSAP",
     "proj.stack.movie": "React JS • MySQL • Figma",
 
+    /* PROJECTS PAGE */
+    "proj.all.title": "Tất cả Dự án",
+    "proj.back": "Quay lại trang chính",
+    "proj.viewDetail": "Xem chi tiết",
+
+    /* COMING SOON PAGE */
+    "cs.title": "Trang “Tất cả Dự án” đang được hoàn thiện ✨",
+    "cs.desc":
+      "Mình đang sắp xếp lại case study, thêm mô tả UI/UX, tech stack và link demo cho từng dự án. Quay lại trang chính để xem các project nổi bật trước nhé.",
+    "cs.cta.projects": "Xem Project nổi bật",
+    "cs.cta.contact": "Liên hệ làm dự án",
+    "cs.feat1.title": "Case study",
+    "cs.feat1.desc": "Nội dung rõ ràng, có mục tiêu & giải pháp.",
+    "cs.feat2.title": "Tối ưu",
+    "cs.feat2.desc": "Performance + SEO + trải nghiệm mượt.",
+    "cs.feat3.title": "Demo / Repo",
+    "cs.feat3.desc": "Gắn link đầy đủ để dễ xem & đánh giá.",
+    "cs.panel.sub": "Đang build danh sách dự án",
+    "cs.progress": "Tiến độ",
+    "cs.tip": "Tip: Nếu muốn xem nhanh, bấm “Xem Project nổi bật” ở bên trái.",
+
     "contact.title": "Liên hệ",
     "contact.text":
       "Ưu tiên consumer, SaaS, fintech & giáo dục. On-site HCMC hoặc remote.",
@@ -123,6 +145,7 @@ const I18N = {
     "about.dateLabel": "Birthday:",
     "about.locLabel": "Location:",
     "about.locValue": "HCMC, Vietnam",
+    "about.facebookLabel": "Facebook:",
 
     "about.focus": "Focus",
     "about.focus.performance": "Performance",
@@ -177,6 +200,27 @@ const I18N = {
     "proj.stack.hotel": "React JS • Tailwind",
     "proj.stack.lovebox": "Next.js • Tailwind • GSAP",
     "proj.stack.movie": "React JS • MySQL • Figma",
+
+    /* PROJECTS PAGE */
+    "proj.all.title": "All Projects",
+    "proj.back": "Back to home",
+    "proj.viewDetail": "View detail",
+
+    /* COMING SOON PAGE */
+    "cs.title": "The “All Projects” page is being finished ✨",
+    "cs.desc":
+      "I'm reorganizing case studies, adding UI/UX notes, tech stack and demo links for each project. Head back to the home page to see the featured projects first.",
+    "cs.cta.projects": "View featured projects",
+    "cs.cta.contact": "Hire me for a project",
+    "cs.feat1.title": "Case study",
+    "cs.feat1.desc": "Clear content with goals & solutions.",
+    "cs.feat2.title": "Optimized",
+    "cs.feat2.desc": "Performance + SEO + smooth experience.",
+    "cs.feat3.title": "Demo / Repo",
+    "cs.feat3.desc": "Full links for easy viewing & review.",
+    "cs.panel.sub": "Building the project list",
+    "cs.progress": "Progress",
+    "cs.tip": "Tip: For a quick look, click “View featured projects” on the left.",
 
     "contact.title": "Contact",
     "contact.text":
