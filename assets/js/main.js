@@ -85,6 +85,7 @@ const I18N = {
     "proj.p2.desc": "LoveBox Hotel",
     "proj.p3.desc": "Movie Cinema Booking Ticket",
     "proj.stack.hotel": "React JS • Tailwind",
+    "proj.stack.lovebox": "Next.js • Tailwind • GSAP",
     "proj.stack.movie": "React JS • MySQL • Figma",
 
     "contact.title": "Liên hệ",
@@ -174,6 +175,7 @@ const I18N = {
     "proj.p2.desc": "LoveBox Hotel",
     "proj.p3.desc": "Movie Cinema Booking Ticket",
     "proj.stack.hotel": "React JS • Tailwind",
+    "proj.stack.lovebox": "Next.js • Tailwind • GSAP",
     "proj.stack.movie": "React JS • MySQL • Figma",
 
     "contact.title": "Contact",
