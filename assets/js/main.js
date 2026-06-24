@@ -27,7 +27,7 @@ const I18N = {
 
     "about.title": "Về tôi",
     "about.text":
-      "Mình là <strong>Phan Chau Khanh Duy</strong>, 21 tuổi, sống tại <strong>TP.HCM</strong>. <br>Tốt nghiệp loại Giỏi tại <strong>Cao đẳng FPT Polytechnic</strong>, chuyên ngành <strong>Công nghệ thông tin – Lập trình Website (Front-end)</strong>.",
+      "Mình là <strong>Phan Chau Khanh Duy</strong>, 22 tuổi, sống tại <strong>TP.HCM</strong>. <br>Tốt nghiệp loại Giỏi tại <strong>Cao đẳng FPT Polytechnic</strong>, chuyên ngành <strong>Công nghệ thông tin – Lập trình Website (Front-end)</strong>.",
     "about.emailLabel": "Email:",
     "about.phoneLabel": "Số điện thoại",
     "about.locLabel": "Nơi ở:",
@@ -79,13 +79,13 @@ const I18N = {
     "proj.title": "Dự án nổi bật",
     "proj.viewAll": "Xem tất cả",
     "proj.p1.title": "Hotel",
-    "proj.p2.title": "Hotel",
+    "proj.p2.title": "LoveBox",
     "proj.p3.title": "Movie Cinema",
     "proj.p1.desc": "Hotel Travel Booking",
     "proj.p2.desc": "LoveBox Hotel",
     "proj.p3.desc": "Movie Cinema Booking Ticket",
-    "proj.stack.hotel": "ReactJs • Tailwind",
-    "proj.stack.movie": "ReactJs • MySql • Figma",
+    "proj.stack.hotel": "React JS • Tailwind",
+    "proj.stack.movie": "React JS • MySQL • Figma",
 
     "contact.title": "Liên hệ",
     "contact.text":
@@ -116,7 +116,7 @@ const I18N = {
 
     "about.title": "About me",
     "about.text":
-      "I'm <strong>Phan Chau Khanh Duy</strong>, 21 years old, living in <strong>Ho Chi Minh City</strong>. <br>Graduated with distinction from <strong>FPT Polytechnic</strong>, majoring in <strong>Information Technology – Web Programming (Front-end)</strong>.",
+      "I'm <strong>Phan Chau Khanh Duy</strong>, 22 years old, living in <strong>Ho Chi Minh City</strong>. <br>Graduated with distinction from <strong>FPT Polytechnic</strong>, majoring in <strong>Information Technology – Web Programming (Front-end)</strong>.",
     "about.emailLabel": "Email:",
     "about.phoneLabel": "Phone Number:",
     "about.dateLabel": "Birthday:",
@@ -168,13 +168,13 @@ const I18N = {
     "proj.title": "Featured projects",
     "proj.viewAll": "View all",
     "proj.p1.title": "Hotel",
-    "proj.p2.title": "Hotel",
+    "proj.p2.title": "LoveBox",
     "proj.p3.title": "Movie Cinema",
     "proj.p1.desc": "Hotel Travel Booking",
     "proj.p2.desc": "LoveBox Hotel",
     "proj.p3.desc": "Movie Cinema Booking Ticket",
-    "proj.stack.hotel": "ReactJs • Tailwind",
-    "proj.stack.movie": "ReactJs • MySql • Figma",
+    "proj.stack.hotel": "React JS • Tailwind",
+    "proj.stack.movie": "React JS • MySQL • Figma",
 
     "contact.title": "Contact",
     "contact.text":
@@ -339,6 +339,10 @@ if ("serviceWorker" in navigator) {
 }
 
 /* ============ DEVTOOLS & COPY PROTECTION ============ */
+/* ⚠️ TẠM TẮT: phần này không thực sự bảo vệ được source (ai cũng bypass được),
+   gây UX khó chịu (chặn Ctrl+S, chuột phải) và dò DevTools bị dương tính giả
+   khi dock DevTools / zoom. Giữ lại để tham khảo — bỏ comment nếu muốn bật lại. */
+/*
 (function () {
   const DETECT_THRESHOLD = 160;
   function showBanner(msg) {
@@ -401,6 +405,7 @@ if ("serviceWorker" in navigator) {
   }
   setInterval(checkDevtools, 1000);
 })();
+*/
 
 /* ============ HELLO INTRO ============ */
 window.onload = () => {

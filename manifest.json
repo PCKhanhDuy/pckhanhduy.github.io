@@ -1,8 +1,8 @@
 {
   "name": "Phan Chau Khanh Duy — Portfolio",
   "short_name": "PCKD Portfolio",
-  "start_url": "https://pckhanhduy.github.io/Portfolio/",
-  "scope": "https://pckhanhduy.github.io/Portfolio/",
+  "start_url": "https://pckhanhduy.github.io/",
+  "scope": "https://pckhanhduy.github.io/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#000000",

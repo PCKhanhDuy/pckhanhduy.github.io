@@ -1,6 +1,9 @@
+// ⬆️ Tăng số version mỗi lần deploy để buộc trình duyệt lấy bản mới (tránh kẹt cache cũ).
+const CACHE = "pckd-portfolio-v2";
+
 self.addEventListener("install", e => {
   e.waitUntil(
-    caches.open("pckd-portfolio").then(cache => {
+    caches.open(CACHE).then(cache => {
       return cache.addAll([
         "./",
         "./index.html",
@@ -8,6 +11,16 @@ self.addEventListener("install", e => {
         "./assets/avt-2.png"
       ]);
     })
+  );
+  self.skipWaiting();
+});
+
+// Xoá các cache phiên bản cũ khi service worker mới kích hoạt.
+self.addEventListener("activate", e => {
+  e.waitUntil(
+    caches.keys().then(keys =>
+      Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
+    ).then(() => self.clients.claim())
   );
 });
 
